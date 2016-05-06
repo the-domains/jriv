@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Jriv]]></title>
+        <description><![CDATA[Jriv]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 06 May 2016 16:37:42 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>I got fired from my job this week</p>]]></description>
+            <link>undefinedi-got-fired-from-my-job-this-week/index.html</link>
+            <guid isPermaLink="false">f32153f4-e1f1-45d4-9cbc-694099848555</guid>
+            <pubDate>Fri, 06 May 2016 16:37:35 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
